@@ -25,7 +25,8 @@ Jupyter Notebook/Lab
 Required libraries (install via pip install -r requirements.txt)
 Running the Project
 Clone the repository:
-git clone https://github.com/fulaneey/covid-19-Data.git
+git clone 
+https://github.com/Hikayharrison44/COVID-19-Global-Data-Tracker-Project
 cd covid-19-Data
 Install dependencies:
 bash pip install -r requirements.txt Download the dataset:
